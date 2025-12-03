@@ -1,4 +1,4 @@
-# Intelligent Subset Selection for LLM Benchmarking
+# Intelligent Subset Selection for LLM Benchmarking   [![DOI](https://zenodo.org/badge/1049040333.svg)](https://doi.org/10.5281/zenodo.17800453)   
 
 ## 📋 Project Overview
 
